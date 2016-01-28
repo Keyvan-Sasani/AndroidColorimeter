@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Keyvan\StudioProjects\Caloriemeter-edited\android-support-v7-appcompat\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d2fe9245d9ae17c490dbb97017f435a424fe6d38">
+        <dex dex="C:\Users\Keyvan\StudioProjects\Caloriemeter-edited\Caloriemeter\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-289a2174bfcddc5a7965831432f5a3cf9cee5abe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keyvan\StudioProjects\Caloriemeter-edited\android-support-v13\android-support-v13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b3db0befb5f9a8c310ca661ea2f67da12871fa2">
+        <dex dex="C:\Users\Keyvan\StudioProjects\Caloriemeter-edited\Caloriemeter\build\intermediates\pre-dexed\debug\android-support-v13-8c46c8736ad1ff2bc5ed3efc668c972c79bfa87d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keyvan\StudioProjects\Caloriemeter\android-support-v7-appcompat\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d2fe9245d9ae17c490dbb97017f435a424fe6d38">
+        <dex dex="C:\Users\Keyvan\StudioProjects\Caloriemeter\Caloriemeter\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-d7aa2888657a589a3c307fc3c7eceadcf5003348.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keyvan\StudioProjects\Caloriemeter\android-support-v13\android-support-v13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b3db0befb5f9a8c310ca661ea2f67da12871fa2">
+        <dex dex="C:\Users\Keyvan\StudioProjects\Caloriemeter\Caloriemeter\build\intermediates\pre-dexed\debug\android-support-v13-04cfbcafb1757e1cc4b8072af99b039fe9ea5fae.jar" />
+    </item>
+
+</items>

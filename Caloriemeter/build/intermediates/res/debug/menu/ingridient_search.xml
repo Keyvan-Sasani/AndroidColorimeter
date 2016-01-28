@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item
+	        android:id="@+id/action_done_ingridients"
+	        android:showAsAction="always"
+	        android:title="@string/done"/>
+</menu>
+<!-- From: file:/C:/Users/Keyvan/StudioProjects/Caloriemeter-edited/Caloriemeter/src/main/res/menu/ingridient_search.xml -->
